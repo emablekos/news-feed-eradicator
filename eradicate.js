@@ -1,5 +1,17 @@
 var quoteList = [ 
 	{
+		quote: "A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages. Yet he dismisses without notice his thought, because it is his.",
+		source: "Ralph Waldo Emerson"
+	},
+	{
+		quote: "The danger of craft is that it needs to be in second position to what it is that you’re doing. It’s seductive to put it in first position, often because what you’re doing is meaningless or worthless, or just more of the same. So you can distinguish yourself by being very, very good at it.",
+		source: "Charlie Kaufman"
+	},
+	{
+		quote: "The Internet brought us together, Mobile gave us legs, Robots will give us wings.",
+		source: "Jay Bregman"
+	}
+	{
 		quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
 		source: "Lao Tzu"
 	},
